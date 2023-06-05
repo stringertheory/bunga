@@ -1,7 +1,7 @@
 import collections
 
 
-def shee(a: int, b: int) -> None:
+def shee(a: int, b: int) -> int:
     """This is a test of a documented function.
 
     Arguments:
@@ -12,3 +12,4 @@ def shee(a: int, b: int) -> None:
     counter["alice"] += 1
     counter["alice"] += 1
     counter["bob"] += 1
+    return counter.total()
