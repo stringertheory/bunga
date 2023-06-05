@@ -5,4 +5,4 @@
 [![Commit activity](https://img.shields.io/github/commit-activity/m/stringertheory/bunga)](https://img.shields.io/github/commit-activity/m/stringertheory/bunga)
 [![License](https://img.shields.io/github/license/stringertheory/bunga)](https://img.shields.io/github/license/stringertheory/bunga)
 
-This is a template repository for Python projects that use Poetry for their dependency management.
+Test. This is a template repository for Python projects that use Poetry for their dependency management.
