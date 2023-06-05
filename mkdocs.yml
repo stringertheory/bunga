@@ -5,7 +5,7 @@ site_description: This is a template repository for Python projects that use Poe
 site_author: Mike Stringer
 edit_uri: edit/main/docs/
 repo_name: stringertheory/bunga
-copyright: Maintained by <a href="https://stringertheory.com">Florian</a>.
+copyright: Maintained by <a href="https://mike.stringer.io">Mike</a>.
 
 nav:
   - Home: index.md
@@ -22,6 +22,11 @@ theme:
   name: material
   feature:
     tabs: true
+  font:
+    text:
+      Rubik
+    code:
+      Inconsolata
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

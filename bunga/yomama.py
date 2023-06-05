@@ -1,9 +1,14 @@
 import collections
 
 
-def shee():
-    c = collections.Counter()
-    c["alice"] += 1
-    c["alice"] += 1
-    c["bob"] += 1
-    return c.total()
+def shee(a: int, b: int) -> None:
+    """This is a test of a documented function.
+
+    Arguments:
+        a: nothing
+        b: nothing more
+    """
+    counter: collections.Counter = collections.Counter()
+    counter["alice"] += 1
+    counter["alice"] += 1
+    counter["bob"] += 1
